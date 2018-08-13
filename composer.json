@@ -1,0 +1,6 @@
+{
+    "name": "m.jeleznyakov/local",
+    "require": {
+        "robmorgan/phinx": "^0.10.6"
+    }
+}
